@@ -21,7 +21,7 @@
 
 ### Задание 2
 
-Установите Unreal Engine 5.
+Шаг 1. Откройте Epic Games, в левом меню выберите Unreal Engine.
 
 ![UE5_install (3).png](/01/images/UE5_install%20(3).png)
 
