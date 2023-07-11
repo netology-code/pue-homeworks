@@ -19,7 +19,9 @@
 
 ---
 
-Установка Unreal Engine 5.
+### Задание 2
+
+Устанавить Unreal Engine 5.
 
 ![UE5_install (3).png](/01/images/UE5_install%20(3).png)
 
@@ -46,10 +48,6 @@
 ---
 
 ![UE5_install (9).png](/01/images/UE5_install%20(9).png)
-
-### Задание 2
-
-Устанавить Unreal Engine 5.
 
 ### Дополнительные материалы
 
