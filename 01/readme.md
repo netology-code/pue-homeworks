@@ -13,7 +13,7 @@
 
 ![UE5_install (1).png](/01/images/UE5_install%20(1).png)
 
-Шаг 2. Пройдите регистрацию на сайте Epic Games.
+Шаг 2. Пройдите регистрацию [на сайте Epic Games](https://www.epicgames.com/id/login?lang=ru&noHostRedirect=true&redirectUrl=https%3A%2F%2Fstore.epicgames.com%2Fru%2Fdownload&client_id=875a3b57d3a640a6b7f9b4e883463ab4).
 
 ![UE5_install (2).png](/01/images/UE5_install%20(2).png)
 
