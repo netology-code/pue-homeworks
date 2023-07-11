@@ -9,13 +9,11 @@
 
 ### Задание 1
 
-Установить Epic Games [по ссылке](https://store.epicgames.com/ru/download).
+Шаг 1. Установить Epic Games [по ссылке](https://store.epicgames.com/ru/download).
 
 ![UE5_install (1).png](/01/images/UE5_install%20(1).png)
 
----
-
-Регистрация в Epic Games.
+Шаг 2. Пройдите регистрацию на сайте Epic Games.
 
 ![UE5_install (2).png](/01/images/UE5_install%20(2).png)
 
