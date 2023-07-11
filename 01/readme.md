@@ -39,7 +39,7 @@
 
 ![UE5_install (6).png](/01/images/UE5_install%20(6).png)
 
----
+Установка завершена:
 
 ![UE5_install (7).png](/01/images/UE5_install%20(7).png)
 
