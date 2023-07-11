@@ -11,7 +11,7 @@
 
 Установить Epic Games.
 
-Перейдите [по ссылке]([https://www.epicgames.com/site/ru/home?sessionInvalidated=true](https://store.epicgames.com/ru/download)).
+Перейдите [по ссылке](https://store.epicgames.com/ru/download).
 
 ![UE5_install (1).png](/01/images/UE5_install%20(1).png)
 
