@@ -31,11 +31,11 @@
 
 ![UE5_install (4).png](/01/images/UE5_install%20(4).png)
 
----
+Параметры установки:
 
 ![UE5_install (5).png](/01/images/UE5_install%20(5).png)
 
----
+Установка:
 
 ![UE5_install (6).png](/01/images/UE5_install%20(6).png)
 
