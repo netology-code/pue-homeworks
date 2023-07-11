@@ -7,7 +7,7 @@
 1. Установить Epic Games Launcher.
 2. Установить Unreal Engine 5.
 
-### Инструкция по выполнению домашнего задания
+### Задание 1
 
 Установка Epic Games.
 
@@ -48,10 +48,6 @@
 ---
 
 ![UE5_install (9).png](/01/images/UE5_install%20(9).png)
-
-### Задание 1
-
-Устанавить Epic Games Launcher.
 
 ### Задание 2
 
