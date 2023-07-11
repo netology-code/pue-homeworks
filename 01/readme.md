@@ -51,6 +51,10 @@
 
 ![UE5_install (9).png](/01/images/UE5_install%20(9).png)
 
+### Правила приёма домашней работы
+
+Это задание не требует проверки.
+
 ### Дополнительные материалы
 
 1. [Сайт Unreal Engine 5](https://www.unrealengine.com/en-US/).
