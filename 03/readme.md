@@ -28,12 +28,19 @@
 Таким образом вы подготовили простейший инструмент для получения дебаг информации в лог. Для проверки разместите 3-5 экземпляров класса A_CppBase на сцене, перед запуском игры почистите окно вывода логов. Затем запустите игру и в логах вы должны будете увидеть следующий пример сообщения:
 
 `…
+
 LogTemp: Display: Instance name: A_CppBase_C_0
+
 LogTemp: Display: EnemyNum: 10
+
 LogTemp: Display: IsAlive: 0
+
 LogTemp: Display: Instance name: A_CppBase_C_1
+
 LogTemp: Display: EnemyNum: 20
+
 LogTemp: Display: IsAlive: 1
+
 …`
 
 
