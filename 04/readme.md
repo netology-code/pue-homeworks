@@ -12,7 +12,7 @@
 
 Изучите дополнительные материалы к лекции в личном кабинете.
 
-[Готовые gitignore и clang-format, настроенные под наш проект.](Lessons4.zip)
+[Готовые gitignore и clang-format, настроенные под наш проект.](https://github.com/netology-code/pue-homeworks/blob/main/04/Lessons4.zip)
 
 ------
 
